@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RDXAISHWARY
+- 👀 I’m interested in coding+circuit making+inventing
+- 🌱 I’m currently learning Web Devlopment
+- 💞️ I’m looking to collaborate on Battle grounds Game like BGMI or Free Fire
+- 📫 How to reach me you can reach through my email address - aishwary.technologies@gmail.com
